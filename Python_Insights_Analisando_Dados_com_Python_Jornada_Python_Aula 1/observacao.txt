@@ -1,0 +1,7 @@
+Observação1:
+O código escrito em main.txt não foi executado devido ao peso ultrapassar 100mb. Por isso, será 
+necessário baixar e executar os arquivos para que possa observar os gráficos. 
+
+Observação2:
+Os requerimentos para a execução do código são muitos visto que a aula utilizou import [biblioteca].
+Na prática foram bem menos. Ainda não conheço os detalhes dessas ferramentas para separar adequadamente.

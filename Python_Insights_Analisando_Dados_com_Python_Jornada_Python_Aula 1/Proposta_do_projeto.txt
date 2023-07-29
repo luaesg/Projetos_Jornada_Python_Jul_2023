@@ -1,0 +1,2 @@
+O projeto pretende analisar os registros de uma empresa e buscar quais podem ser os motivos para o alto
+cancelamento de contas dos clientes. Com isso, pode ser proposto soluções visando a redução do problema.
